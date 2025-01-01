@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/muneebali786pro?tab=repositories).
 - 📫 Reach me at **muneebali786prof@gmail.com**
-- 📄 Check out my experiences [here]([https://drive.google.com/file/d/132eKEdxLwiEptmXArT-iBKim97huFnaf/view?usp=sharing](https://drive.google.com/file/d/1SII5UNjjdS--zjz1wJxkuo48-dA4tt0B/view?usp=drive_link)).
+- 📄 Check out my experiences [here](https://drive.google.com/file/d/1SII5UNjjdS--zjz1wJxkuo48-dA4tt0B/view?usp=drive_link).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
