@@ -1,12 +1,12 @@
-![logo](https://github.com/muneebali786pro/muneebali786pro/blob/main/github%20banner.png)
+![logo](https://github.com/Muneeb-Ali29/Muneeb-Ali29/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Muneeb Ali</h1>
 <h3 align="center">A passionate Data Analyst/ Data Scientist from Pakistan</h3>
 
 <img align="right" alt="Data Science" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*dBPwuC3Dh2WWFFYTwogTMA.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebali786pro&label=Profile%20views&color=0e75b6&style=flat" alt="muneebali786pro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muneeb-Ali29&label=Profile%20views&color=0e75b6&style=flat" alt="Muneeb-Ali29" /> </p>
 
-- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/muneebali786pro?tab=repositories).
+- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/Muneeb-Ali29?tab=repositories).
 - 📫 Reach me at **muneebali786prof@gmail.com**
 - 📄 Check out my experiences [here](https://drive.google.com/drive/u/0/folders/1kNr0bFeRgJ-oCjckrGBAKrJ1dtexhtkA).
 
@@ -38,13 +38,13 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muneeb-Ali29&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Muneeb-Ali29&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muneeb-Ali29&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Muneeb-Ali29&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-Ali29&" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-Ali29" alt="Streak Stats" />
 </p>
