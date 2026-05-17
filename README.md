@@ -1,6 +1,6 @@
 ![logo](https://github.com/muneebali786pro/muneebali786pro/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Muneeb Ali</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
+<h3 align="center">A passionate Data Analyst/ Data Scientist from Pakistan</h3>
 
 <img align="right" alt="Data Science" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*dBPwuC3Dh2WWFFYTwogTMA.gif">
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/muneebali786pro?tab=repositories).
 - 📫 Reach me at **muneebali786prof@gmail.com**
-- 📄 Check out my experiences [here](https://drive.google.com/file/d/1SII5UNjjdS--zjz1wJxkuo48-dA4tt0B/view?usp=drive_link).
+- 📄 Check out my experiences [here](https://drive.google.com/drive/u/0/folders/1kNr0bFeRgJ-oCjckrGBAKrJ1dtexhtkA).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
