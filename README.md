@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/Muneeb-Ali29?tab=repositories).
 - 📫 Reach me at **muneebali786prof@gmail.com**
-- 📄 Check out my experiences [here](https://drive.google.com/drive/u/0/folders/1kNr0bFeRgJ-oCjckrGBAKrJ1dtexhtkA).
+- 📄 Check out my experiences [here](https://drive.google.com/file/d/1cRDnjYm213G_GaKUws2l7Db0JXuFuvBe/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
