@@ -38,13 +38,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Muneeb-Ali29&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<br>
-<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Muneeb-Ali29&show_icons=true&locale=en&langs_count=20&hide_progress=false" alt="Top Languages" />
+  <br><br>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Muneeb-Ali29&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<br>
-<p align="center">
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-Ali29" alt="Streak Stats" />
 </p>
